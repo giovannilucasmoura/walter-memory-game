@@ -28,7 +28,7 @@ body {
    cursor: pointer;
    transform: scale(1);
    transform-style: preserve-3d;
-   transition: transform .9s;
+   transition: transform .7s;
 }
 
 .card-front,
